@@ -31,4 +31,4 @@ Windows 10/11
 
 [whatever license you choose]
 
-This is a small personal utility rather than a polished, professional software project. It was created to solve a specific workflow problem and intentionally has no GUI or configuration interface to be as simple as possible to use.  You are free to redistribute and modify this software as you see fit.
+This is a small personal utility rather than a polished, professional software project. It was created to solve a specific problem with preexisting images, and intentionally has no GUI or settings to be as simple as possible.  You are free to redistribute and modify this software as you see fit.
