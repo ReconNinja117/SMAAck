@@ -19,7 +19,7 @@ No installation or configuration required.
 <img width="1504" height="1272" alt="Spo3 before" src="https://github.com/user-attachments/assets/ea91a3b5-2d4e-4c2c-a1e8-002743f1fcb9" />
 <img width="1504" height="1272" alt="Spo3 after" src="https://github.com/user-attachments/assets/18def58f-352c-4b9c-a6da-2c4088beeb35" />
 
-## Supported input formats
+## Supported images
 
 SMAAck supports PNG, JPG, WebP, and BMP.  Processed images will be output in lossless WEBP format, and will have "_smaa" appended to their original file name.
 
