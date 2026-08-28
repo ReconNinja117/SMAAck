@@ -27,8 +27,9 @@ PNG, JPG, WEBP, BMP
 
 Requires a GPU with a graphics API supported by wgpu.  Tested on Windows 10.
 
-
-This is a small personal utility rather than a polished, professional software project. It was created to solve a specific problem with preexisting images, and intentionally has no GUI or settings to be as simple as possible.
-
 ## Acknowledgements
 Developed with assistance from Anthropic's Claude Opus 4.8.
+
+---
+
+This is a small personal utility rather than a polished, professional software project. It was created to solve a specific problem with preexisting images, and intentionally has no GUI or settings to be as simple as possible.
