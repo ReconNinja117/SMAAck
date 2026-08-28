@@ -1,0 +1,10 @@
+[package]
+name = "SMAAck"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+smaa = "0.20"
+wgpu = "29"        # must match the version smaa 0.20 depends on
+image = "0.25"     # decodes webp/png/jpg, encodes png
+pollster = "0.4"   # blocks on wgpu's async calls
