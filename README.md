@@ -1,13 +1,13 @@
 # SMAAck
 
-A small portable Windows utility for applying SMAA (Subpixel Morphological Antialiasing) to existing images.  Useful for post-processing screenshots or renders from video games or other 3D applications which don't support injecting SMAA with ReShade.  Output images are in lossless WEBP format.
+A small portable Windows utility for applying SMAA (Subpixel Morphological Antialiasing) to existing images.  Useful for post-processing screenshots or renders from video games or other 3D applications which don't support injecting SMAA with ReShade.
 
 ## Usage
 
 1. Place `SMAAck.exe` in a folder containing your images.
 2. Double-click it.
 3. Wait for processing to finish.
-4. The completed images will be placed in a new "Output" subfolder.
+4. The completed images will appear in a new "output" subfolder.
 
 No installation or configuration required.
 
@@ -21,13 +21,18 @@ No installation or configuration required.
 
 ## Supported input formats
 
-PNG, JPG, WEBP, BMP
+SMAAck supports PNG, JPG, WebP, and BMP.  Processed images will be output in lossless WEBP format, and will have "_smaa" appended to their original file name.
 
 ## Requirements
 
-Requires a GPU with a graphics API supported by wgpu.  Tested on Windows 10.
+Requires a GPU with a graphics API supported by wgpu.  Validated on Windows 10.  No additional runtime or software is needed.
+
+## License
+
+SMAAck is free and open-source software released under the MIT License. You are free to use, modify, redistribute, and republish it.
 
 ## Acknowledgements
+
 Developed with assistance from Anthropic's Claude Opus 4.8.
 
 ---
