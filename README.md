@@ -19,16 +19,13 @@ No installation or configuration required.
 <img width="1504" height="1272" alt="Spo3 before" src="https://github.com/user-attachments/assets/ea91a3b5-2d4e-4c2c-a1e8-002743f1fcb9" />
 <img width="1504" height="1272" alt="Spo3 after" src="https://github.com/user-attachments/assets/18def58f-352c-4b9c-a6da-2c4088beeb35" />
 
-## Supported formats
+## Supported input formats
 
-PNG, JPG, WEBP, etc.
+PNG, JPG, WEBP, BMP
 
 ## Requirements
 
-Windows 10/11
+Requires a GPU with a graphics API supported by wgpu.  Tested on Windows 10.
 
-## License
 
-[whatever license you choose]
-
-This is a small personal utility rather than a polished, professional software project. It was created to solve a specific problem with preexisting images, and intentionally has no GUI or settings to be as simple as possible.  You are free to redistribute and modify this software as you see fit.
+This is a small personal utility rather than a polished, professional software project. It was created to solve a specific problem with preexisting images, and intentionally has no GUI or settings to be as simple as possible.
